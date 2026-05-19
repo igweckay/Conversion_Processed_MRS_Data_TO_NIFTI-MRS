@@ -4,6 +4,7 @@ A set of bash and Python scripts for converting raw MRS .mat files into BIDS-com
 
 The raw and the processed dataset can be found on OpenNeuro: https://openneuro.org/datasets/ds006812/versions/1.0.1
 Look in the derivatives folder for the processed .mat files per subject, per region of interest, and per water suppression module.
+
 ---
 
 ## Overview

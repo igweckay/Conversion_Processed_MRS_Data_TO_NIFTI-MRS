@@ -67,7 +67,7 @@ Subject mapping: COWS2 -> sub-01, COWS3 -> sub-02, etc.
 
 ## Scripts
 
-### step_1_mat_to_raw.py
+### step_0_mat_to_raw.py
 
 Converts a single .mat file to LCModel .raw format.
 
